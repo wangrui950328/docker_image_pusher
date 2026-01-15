@@ -1,1 +1,1 @@
-jenkins:lts
+docker.io/jenkins/jenkins:2.546-jdk21
