@@ -1,1 +1,1 @@
-openjdk:11.0.2-jdk-slim
+jenkins:lts
