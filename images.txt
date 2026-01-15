@@ -1,1 +1,1 @@
-openjdk
+eclipse-temurin:11-jre-slim
