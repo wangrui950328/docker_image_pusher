@@ -1,1 +1,1 @@
-docker.io/openjdk:17.0.2-jdk
+docker.io/ubuntu/python:3.13-25.04
