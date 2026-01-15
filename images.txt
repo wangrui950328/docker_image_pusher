@@ -1,1 +1,1 @@
-docker.io/ubuntu/python:3.13-25.04
+docker.io/python:3.11.8-slim
