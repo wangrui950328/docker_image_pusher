@@ -1,1 +1,1 @@
-docker.io/python:3.11.8-slim
+mysql:8.0
