@@ -1,2 +1,1 @@
-docker.io/flannel/flannel-cni-plugin:v1.1.2
-docker.io/flannel/flannel:v0.22.0
+hardened-cni-plugins:v1.8.0-build20250909
