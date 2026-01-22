@@ -1,1 +1,1 @@
-hardened-cni-plugins:v1.2.0
+cni-plugins:v1.2.0
