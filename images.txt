@@ -1,1 +1,1 @@
-labring/sealos-cloud:v5.1.1
+ks-console:v4.1.3
