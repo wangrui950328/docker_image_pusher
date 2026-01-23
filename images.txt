@@ -1,1 +1,1 @@
-cni-plugins:v1.2.0
+labring/sealos-cloud:v0.8.0
