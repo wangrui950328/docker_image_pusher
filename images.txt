@@ -1,1 +1,1 @@
-ks-console:v4.1.3
+kubesphere/ks-console:v4.1.3
